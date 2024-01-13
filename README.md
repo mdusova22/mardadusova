@@ -1,21 +1,17 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Mustafa Arda 👋</h2>
 <h3>Hesaplarım:</h3>
 <p align="center">
-   <a href="https://discord.com/users/902978815515558020" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://github.com/mstarda" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://www.npmjs.com/~mstarda"><img src="https://img.shields.io/badge/Npm%20-191717.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
+    <a href="https://github.com/mustcodes" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://www.youtube.com/channel/UCJfKfjgbDUS9JMvfI2j57KA" target"blank_"><img src="https://img.shields.io/badge/youtube%20-ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-   <a href="https://steamcommunity.com/id/thetisdevelopment/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
- <a href="https://www.reddit.com/user/thetisdev" target"blank_"><img src="https://img.shields.io/badge/reddit%20-FF5700.svg?&style=for-the-badge&logo=reddit&logoColor=white"></a>
-<a href="https://open.spotify.com/user/31vszrhl654quk7nul2gu2p3uhfe" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.instagram.com/thetisware/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://open.spotify.com/user/31e4wu2ua42rf5qvqaukgjwgz7tu" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.instagram.com/mardadusova/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">GitHub İstatistiklerim</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=mstarda&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mstarda&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=mstarda&theme=nord" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=mustcodes&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustcodes&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=mustcodes&theme=nord" width="%100" height="150px" alt="stats" />
 </details>
 
 <details align="center">
