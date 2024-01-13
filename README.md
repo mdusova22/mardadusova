@@ -1,5 +1,5 @@
 <h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Mustafa Arda 👋</h2>
-<h2 align="center><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31e4wu2ua42rf5qvqaukgjwgz7tu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31e4wu2ua42rf5qvqaukgjwgz7tu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true"> </h2>
+<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31e4wu2ua42rf5qvqaukgjwgz7tu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31e4wu2ua42rf5qvqaukgjwgz7tu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Mustafa Arda in Spotify" class="center"> 
 <center><h3>Hesaplarım:</h3></center>
 <p align="center">
     <a href="https://github.com/mustcodes" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
