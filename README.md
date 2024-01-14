@@ -16,7 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mustcodes&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustcodes&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=mustcodes&theme=nord" width="%100" height="150px" alt="stats" /><br>
-<img src="https://komarev.com/ghpvc/?username=mustcodes&label=Profile%20views&color=80ceff&style=flat-square">
+<img src="https://komarev.com/ghpvc/?username=mustcodes&label=Profile%20views&color=22272E&style=for-the-badge">
 </details>
 
 <details align="center">
