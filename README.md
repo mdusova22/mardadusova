@@ -1,4 +1,4 @@
-<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Mustafa Arda 👋</h2>
+<h2 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">Selamlar, ben Mustafa Arda 👋 <br> <img src="https://komarev.com/ghpvc/?username=mustcodes&label=Profile%20views&color=80ceff&style=flat-square"></h2>
 <p align="center">
     <a href="https://github.com/mustcodes" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://vsco.co/mstarda" target"blank_"><img src="https://img.shields.io/badge/vsco%20-191717.svg?&style=for-the-badge&logo=vsco&logoColor=white"></a>
