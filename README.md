@@ -5,7 +5,8 @@
     <a href="https://www.instagram.com/mardadusova/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-191717.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31e4wu2ua42rf5qvqaukgjwgz7tu" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-191717.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
     <a href="https://github.com/mustcodes/" target"blank_"><img src="https://komarev.com/ghpvc/?username=mustcodes&label=Profile%20views&color=191717&style=for-the-badge" style="width:101.75; height:28;"></a>
-</p>
+    <a href="https://ko-fi.com/J3J3TCK4U" target"blank_"><img src="https://ko-fi.com/img/githubbutton_sm.svg" style="width:101.75; height:28;> </a>
+</p> 
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">Şu anda Spotify üzerinden dinlediğim şarkı:</summary>
