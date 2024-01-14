@@ -4,6 +4,7 @@
    <a href="https://vsco.co/mstarda" target"blank_"><img src="https://img.shields.io/badge/vsco%20-191717.svg?&style=for-the-badge&logo=vsco&logoColor=white"></a>
     <a href="https://www.instagram.com/mardadusova/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-191717.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://open.spotify.com/user/31e4wu2ua42rf5qvqaukgjwgz7tu" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-191717.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+    <a href="https://github.com/mustcodes/" target"blank_"><img src="https://komarev.com/ghpvc/?username=mustcodes&label=Profile%20views&color=191717&style=for-the-badge"></a>
 </p>
 
 <details align="center">
@@ -16,7 +17,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mustcodes&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustcodes&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=mustcodes&theme=nord" width="%100" height="150px" alt="stats" /><br>
-<img src="https://komarev.com/ghpvc/?username=mustcodes&label=Profile%20views&color=191717&style=for-the-badge">
 </details>
 
 <details align="center">
