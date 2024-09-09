@@ -10,7 +10,7 @@
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">Şu anda Spotify üzerinden dinlediğim şarkı:</summary>
-<img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=31e4wu2ua42rf5qvqaukgjwgz7tu&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31e4wu2ua42rf5qvqaukgjwgz7tu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Mustafa Arda in Spotify" class="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31e4wu2ua42rf5qvqaukgjwgz7tu&unique={true|1|on|yes}" class="center">
 </details>
 
 <details align="center">
